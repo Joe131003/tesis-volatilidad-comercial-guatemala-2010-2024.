@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.log
+# Evita añadir accidentalmente nuevas bases o copias locales sin revisar
+Base_datos_tesis_corregida_2010_2024*.xlsx
